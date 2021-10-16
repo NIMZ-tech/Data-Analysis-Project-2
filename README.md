@@ -1,5 +1,5 @@
 # Video Game Sales Analysis
-## 
+## ![video game pic](https://user-images.githubusercontent.com/82861164/137593818-1b4f1d20-bd5d-4293-8939-1c03cf5ed69b.jpg)
 
 #### Here is the data of more than 15000 video games.This Project is to perform the analysis on the Video Games Sales across the countries. Used various libraries of Python for visualization of Data
 #### Collected information about the data from kaggle and size of data is (16598,11)
