@@ -8,7 +8,7 @@
 #### 4)seaborn
 
 ### collected data includes:
-#### Rank — Ranking of overall sales
+ Rank — Ranking of overall sales
 Name — The games name
 Platform — Platform of the game's release (i.e. PC, PS4, etc.)
 
